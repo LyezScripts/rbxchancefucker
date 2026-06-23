@@ -39,4 +39,4 @@ Once you have added all your tokens:
 
 ---
 
-**Note:** I (Lyez) am not responsible if your accounts get banned, your IP gets leaked, or if someone uses your IP to DDoS you. Use at your own risk. Automating actions on websites may violate their Terms of Service (TOS).
+**Note:** I (Lyez) am not responsible if your accounts get banned, your IP gets leaked, or if someone uses your IP to DDoS you. Use at your own risk. Automating actions on websites may violate their Terms of Service (TOS). If you need to reach out please dm me on discord
