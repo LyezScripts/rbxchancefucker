@@ -29,10 +29,10 @@ A simple script to automatically join RBXChance freebies and giveaways.
 
 Once you have added all your tokens:
 
-1. Open the `.env` file and configure the following variables:
+1. Open the `main.py` file and configure the following variables:
 
    - `WEBHOOK_URL` — Discord webhook URL for notifications. Leave empty to disable notifications.
-   - `RECIPIENT_ID` — Default Roblox user ID to tip when none is specified.
+   - `RECIPIENT_ID` — Default rbxchance user ID to tip when none is specified.
    - `LOOP_INTERVAL` — Time (in seconds) to sleep between each cycle.
 
 2. Run the script.
